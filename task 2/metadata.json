@@ -1,0 +1,8 @@
+
+{
+  "name": "Staff Manager - Modern Employee Management",
+  "description": "A high-performance HR administrative dashboard for managing employee records with AI-powered profile generation and performance analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
